@@ -27,9 +27,9 @@ Program ini memiliki 3 kelas diantaranya, kelas 'Product', kelas 'Clothing', kel
   * Gender -> berisikan tipe gender produk dengan tipe data 'String'
 
 3. Shirt (sebagai sub class / child dari Clothing dan Toddler dari Product)
-   Pada class Shirt terdapat 3 atribut :
-   * Color -> berisikan warna produk dengan tipe data 'string'
-   * Sleeve_type berisikan model lengan produl dengan tipe data 'string'
+  Pada class Shirt terdapat 3 atribut :
+  * Color -> berisikan warna produk dengan tipe data 'string'
+  * Sleeve_type berisikan model lengan produl dengan tipe data 'string'
 
 Tiap atribut dari masing masing class diatas memiliki Getter dan Setternya.
 
