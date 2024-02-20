@@ -43,7 +43,7 @@ Selain itu, dalam class Shirt ini juga terdapat method yang digunakan untuk memp
 ## Alur Program
 Pada umumnya, semua program yang dibuat memiliki alur yang sama, hanya saja pada source code Php tidak tersedia menu input dari pengguna (data diinput secara hardcode).
 
-Pertama program akan menampilkan menu yang dapat dipilih oleh user. User akan diminta menginput perintah sampai program berakhir. Kelima perintahnya yaitu:
+Pertama program akan menampilkan menu yang dapat dipilih oleh user. User akan diminta menginput perintah sampai program berakhir. Perintahnya yaitu:
 
 * 0 -> untuk keluar dari program atau dari menu CRUD
 * 1 -> untuk menjalankan perintah 'tambahData' yaitu menginput data kedalam list
